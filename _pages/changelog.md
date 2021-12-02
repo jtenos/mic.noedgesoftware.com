@@ -8,5 +8,5 @@ include_in_header: false
 
 ### `Latest`
 # **Version 1.0**
-Initial release of application. Basic functionality available, more coming soon!
+Initial release of application. Basic functionality is available, more coming soon!
 
